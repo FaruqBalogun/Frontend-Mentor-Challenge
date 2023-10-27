@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Frontend-Mentor-Challenge",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FMP"
+	}
+}
