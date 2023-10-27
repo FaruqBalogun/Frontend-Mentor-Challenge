@@ -17,10 +17,9 @@ body {
 	height: 500px;
 	background-color: white; 
 	text-align: center;
-	margin: 50px auto;
+	margin: 20px auto;
 	border-radius: 20px;
 	box-shadow: .1em .1em 0.5em darkslategray;
-
 }
 
 img {
@@ -32,9 +31,10 @@ strong{
 	color: orangered;
 }
 .attribution {
-	margin: 0 35.5%;
+	text-align: center;
 }
 
 a {
 	text-decoration: none;
+	margin-top: 10px;
 }
